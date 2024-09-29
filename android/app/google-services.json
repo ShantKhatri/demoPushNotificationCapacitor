@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340698545075",
+    "project_id": "demopushnotification-37236",
+    "storage_bucket": "demopushnotification-37236.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340698545075:android:2360155b6f39b653bc69c6",
+        "android_client_info": {
+          "package_name": "ionic.demopushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0YtBDNJV53mc5eqLETmapHGfpHnQ3DbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
